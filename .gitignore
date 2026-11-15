@@ -1,0 +1,10 @@
+# MATLAB 临时/自动保存文件
+*.asv
+*.autosave
+*.m~
+slprj/
+*.slxc
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
